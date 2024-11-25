@@ -1,0 +1,24 @@
+[
+  {
+    "timestamp": "2024-11-25T06:44:30.422Z",
+    "eventTitle": "Mihraab Arabic",
+    "eventDescription": "Arabic class for grammar and vocabulary",
+    "eventDate": "2024-11-25T12:00:00.000Z",
+    "startTime": "2024-11-25T19:30:00.000Z",
+    "endTime": "2024-11-25T21:30:00.000Z",
+    "imageLink": "https://i.ibb.co/mcq8XXB/b113238bcef8.jpg",
+    "registrationLink": "mihraab.com",
+    "contactEmail": "umair.qureshi@cordobaacademy.org"
+  },
+  {
+    "timestamp": "2024-11-25T06:44:33.595Z",
+    "eventTitle": "Mihraab EIC Foundational",
+    "eventDescription": "EIC foundational courses including Fiqh, Aqida and Sirah",
+    "eventDate": "2024-12-01T12:00:00.000Z",
+    "startTime": "2024-12-01T09:00:00.000Z",
+    "endTime": "2024-12-01T12:00:00.000Z",
+    "imageLink": "https://i.ibb.co/mcq8XXB/b113238bcef8.jpg",
+    "registrationLink": "mihraab.com",
+    "contactEmail": "umair.qureshi@cordobaacademy.org"
+  }
+]
